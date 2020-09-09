@@ -1,0 +1,8 @@
+Frequency counters
+
+Compare pieces of datas using objects to collect values and frequencies.
+
+Avoid nested loops - O(Nˆ2)
+
+O(N)
+
